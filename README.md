@@ -1,20 +1,16 @@
-#leada
-=====
-
+##leada
 teamleada.com challenges for a data science portfolio
-
-#Visualizing Crime Data
-=====
-##Introduction
+##Visualizing Crime Data
+###Introduction
 You've just been hired by the city of San Francisco to use analytics to combat its crime issues.
 The first task they want to do is to better understand the crime patterns throughout the city.
 You're tasked with creating visualization(s) that will help the city better interpret the crime data that gets updated daily.
 You're aren't given restrictions on plot type and you must come up with your own analysis.
-##Data Source
+###Data Source
 The crime data can be downloaded below:
 https://data.sfgov.org/Public-Safety/SFPD-Incidents-Previous-Three-Months/tmnf-yvry?
 The data contains many features including district, category, and crime types.
-##Project Goals
+###Project Goals
 As mentioned before, the type of visualization is entirely up to you.
 You might want to consider creating plots that encompass the following:
 - Where shouldn't you park your car?
